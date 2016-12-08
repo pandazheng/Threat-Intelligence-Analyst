@@ -18,7 +18,7 @@
 [https://github.com/csurage/Rootkit](https://github.com/csurage/Rootkit)
 [https://github.com/adi0x90/POC-Android-Malware](https://github.com/adi0x90/POC-Android-Malware)
 [https://github.com/cheverebe/Android-malware](https://github.com/cheverebe/Android-malware)
-[]()
+[https://github.com/ispoleet/malware](https://github.com/ispoleet/malware)
 
 
 #auto script
@@ -48,7 +48,10 @@
 [https://github.com/trendmicro/aleph](https://github.com/trendmicro/aleph)
 [https://github.com/idanr1986/cuckoo-droid](https://github.com/idanr1986/cuckoo-droid)
 [https://github.com/MalwareLu/tools](https://github.com/MalwareLu/tools)
-[]()
+[https://github.com/hgascon/adagio](https://github.com/hgascon/adagio)
+[https://github.com/rieck/malheur](https://github.com/rieck/malheur)
+[https://github.com/dcmorton/MalwareTools](https://github.com/dcmorton/MalwareTools)
+
 
 #Course  Book
 [https://github.com/RPISEC/Malware](https://github.com/RPISEC/Malware)

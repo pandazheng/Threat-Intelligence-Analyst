@@ -25,10 +25,14 @@
 [https://github.com/asudhak/Android-Malware](https://github.com/asudhak/Android-Malware)  
 [https://github.com/Xyl2k/Malware-Auto-Downloader](https://github.com/Xyl2k/Malware-Auto-Downloader)  
 [https://github.com/slydon/malware_tools](https://github.com/slydon/malware_tools)  
+[https://github.com/Mi3Security/su-a-cyder](https://github.com/Mi3Security/su-a-cyder)  
+[https://github.com/pandazheng/POC-Android-Malware-files](https://github.com/pandazheng/POC-Android-Malware-files)  
+[https://github.com/tfairane/AndroMalware](https://github.com/tfairane/AndroMalware)  
+[https://github.com/eset/malware-research](https://github.com/eset/malware-research)  
 []()
 
 
-#auto script
+# auto script
 [https://github.com/znb/Malware](https://github.com/znb/Malware)  
 [https://github.com/arbor-jjones/malware](https://github.com/arbor-jjones/malware)  
 [https://github.com/samvartaka/malware](https://github.com/samvartaka/malware)  
@@ -80,22 +84,28 @@
 [https://github.com/2015-10-10/MalwareClassification](https://github.com/2015-10-10/MalwareClassification)  
 [https://github.com/pfohjo/nitro](https://github.com/pfohjo/nitro)  
 [https://github.com/researcherGeekLab/AMIV](https://github.com/researcherGeekLab/AMIV)  
+[https://github.com/Te-k/malware-classification](https://github.com/Te-k/malware-classification)  
+[https://github.com/lanninghuanxue/DroidJ](https://github.com/lanninghuanxue/DroidJ)  
+[https://github.com/CvvT/AppTroy](https://github.com/CvvT/AppTroy)  
+[https://github.com/monnappa22/Limon](https://github.com/monnappa22/Limon)  
+[https://github.com/androguard/androguard](https://github.com/androguard/androguard)  
+[https://github.com/sh4hin/Androl4b](https://github.com/sh4hin/Androl4b)  
+[https://github.com/jnferguson/entropyDeviation](https://github.com/jnferguson/entropyDeviation)  
 []()
 
 
-
-
-#Course  Book
+# Course  Book
 [https://github.com/RPISEC/Malware](https://github.com/RPISEC/Malware)  
 [https://github.com/rshipp/awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis)  
 [https://github.com/mgoffin/malwarecookbook](https://github.com/mgoffin/malwarecookbook)  
 [https://github.com/MISP/MISP](https://github.com/MISP/MISP)  
 [https://github.com/wyyqyl/MalwareAnalysis](https://github.com/wyyqyl/MalwareAnalysis)  
 [https://github.com/secmobi/amatutor](https://github.com/secmobi/amatutor)  
+[https://github.com/pandazheng/amatutor](https://github.com/pandazheng/amatutor)  
 []()
 
 
-#AntiMalware Software
+# AntiMalware Software
 [https://github.com/twitter-university/AntiMalware](https://github.com/twitter-university/AntiMalware)  
 [https://github.com/ssesha/MalwareScanner](https://github.com/ssesha/MalwareScanner)  
 [https://github.com/acprimer/MalwareDetector](https://github.com/acprimer/MalwareDetector)  
@@ -103,9 +113,17 @@
 []()
 
 
-#Samples
+# Samples
 [https://github.com/ashishb/ios-malware](https://github.com/ashishb/ios-malware)  
 
-
-
-
+# APT
+[https://github.com/hfiref0x/CVE-2015-1701](https://github.com/hfiref0x/CVE-2015-1701)  
+[https://github.com/michael-yip/APTMalwareNotes](https://github.com/michael-yip/APTMalwareNotes)  
+[https://github.com/abzcoding/aptdetector](https://github.com/abzcoding/aptdetector)  
+[https://github.com/harsh2602/APT-Detection-Via-Graph-Analytics](https://github.com/harsh2602/APT-Detection-Via-Graph-Analytics)  
+[https://github.com/Tryan18/XCOM](https://github.com/Tryan18/XCOM)  
+[https://github.com/aroradhruv03/APThreatDetectionSys](https://github.com/aroradhruv03/APThreatDetectionSys)  
+[https://github.com/tobypinder/ludumdare32](https://github.com/tobypinder/ludumdare32)  
+[https://github.com/hslatman/awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence)  
+[https://github.com/peterfelfer/AtomProbeTutorials](https://github.com/peterfelfer/AtomProbeTutorials)  
+[]()

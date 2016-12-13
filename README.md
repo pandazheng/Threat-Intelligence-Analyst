@@ -29,7 +29,8 @@
 [https://github.com/pandazheng/POC-Android-Malware-files](https://github.com/pandazheng/POC-Android-Malware-files)  
 [https://github.com/tfairane/AndroMalware](https://github.com/tfairane/AndroMalware)  
 [https://github.com/eset/malware-research](https://github.com/eset/malware-research)  
-[]()
+[https://github.com/m0nad/Diamorphine](https://github.com/m0nad/Diamorphine)  
+[https://github.com/a7vinx/liinux](https://github.com/a7vinx/liinux)  
 
 
 # auto script

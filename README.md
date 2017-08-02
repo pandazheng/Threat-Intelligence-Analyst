@@ -131,4 +131,7 @@
 
 
 # Tools
-https://sourceforge.net/projects/remnux/files/
+https://sourceforge.net/projects/remnux/files/  
+https://remnux.org/docs/distro/tools/  
+
+

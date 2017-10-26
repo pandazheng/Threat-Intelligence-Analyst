@@ -1,6 +1,15 @@
 # Threat-Intelligence-Analyst
 威胁情报，恶意样本分析，自动化python脚本，开源Malware代码收集,APT攻击安例相关
 
+# 恶意软件分析大合集  
+https://github.com/recodeking/MalwareAnalysis  
+
+# 在线检测恶意软件网站  
+https://www.hybrid-analysis.com/  
+https://www.virustotal.com/#/home/upload  
+
+
+
 # malware source
 [https://github.com/gbrindisi/malware](https://github.com/gbrindisi/malware)  
 [https://github.com/kaiserfarrell/malware](https://github.com/kaiserfarrell/malware)  

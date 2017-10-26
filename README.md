@@ -3,12 +3,19 @@
 
 # 恶意软件分析大合集  
 https://github.com/recodeking/MalwareAnalysis  
+https://github.com/rshipp/awesome-malware-analysis  
+
 
 # 在线检测恶意软件网站  
 https://www.hybrid-analysis.com/  
 https://www.virustotal.com/#/home/upload  
 
+# 威胁情报网站  
+https://x.threatbook.cn/  
+https://ti.360.com/  
 
+# 恶意流量分析网站  
+http://www.malware-traffic-analysis.net  
 
 # malware source
 [https://github.com/gbrindisi/malware](https://github.com/gbrindisi/malware)  

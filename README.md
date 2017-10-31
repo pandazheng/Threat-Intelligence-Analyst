@@ -9,6 +9,9 @@ https://github.com/rshipp/awesome-malware-analysis
 # 在线检测恶意软件网站  
 https://www.hybrid-analysis.com/  
 https://www.virustotal.com/#/home/upload  
+https://www.reverse.it/  
+
+
 
 # 威胁情报网站  
 https://x.threatbook.cn/  

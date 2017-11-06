@@ -20,6 +20,11 @@ https://ti.360.com/
 # 恶意流量分析网站  
 http://www.malware-traffic-analysis.net  
 
+
+# ML Malware 
+http://www.covert.io/the-definitive-security-datascience-and-machinelearning-guide/  
+
+
 # malware source
 [https://github.com/gbrindisi/malware](https://github.com/gbrindisi/malware)  
 [https://github.com/kaiserfarrell/malware](https://github.com/kaiserfarrell/malware)  

@@ -27,6 +27,10 @@ http://www.covert.io/the-definitive-security-datascience-and-machinelearning-gui
 # Unpacking Shade Ransomware
 https://secrary.com/ReversingMalware/UnpackingShade/  
 
+# DDoS
+https://www.secpulse.com/archives/64088.html  
+https://www.secpulse.com/archives/65477.html  
+
 
 
 # malware source

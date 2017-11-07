@@ -24,6 +24,10 @@ http://www.malware-traffic-analysis.net
 # ML Malware 
 http://www.covert.io/the-definitive-security-datascience-and-machinelearning-guide/  
 
+# Unpacking Shade Ransomware
+https://secrary.com/ReversingMalware/UnpackingShade/  
+
+
 
 # malware source
 [https://github.com/gbrindisi/malware](https://github.com/gbrindisi/malware)  

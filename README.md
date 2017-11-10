@@ -33,6 +33,8 @@ https://secrary.com/ReversingMalware/UnpackingShade/
 https://www.secpulse.com/archives/64088.html  
 https://www.secpulse.com/archives/65477.html  
 
+# Android So
+https://bbs.pediy.com/thread-221965.htm  
 
 
 # malware source

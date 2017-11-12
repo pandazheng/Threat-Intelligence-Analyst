@@ -36,6 +36,11 @@ https://www.secpulse.com/archives/65477.html
 # Android So
 https://bbs.pediy.com/thread-221965.htm  
 
+# VMWare
+https://remnux.org/docs/distro/tools/  
+
+
+
 
 # malware source
 [https://github.com/gbrindisi/malware](https://github.com/gbrindisi/malware)  

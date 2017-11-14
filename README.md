@@ -39,8 +39,92 @@ https://bbs.pediy.com/thread-221965.htm
 # VMWare
 https://remnux.org/docs/distro/tools/  
 
+# MalwareCookBook
+https://github.com/mgoffin/malwarecookbook  
 
+# Malware Analyst Research Toolkit  
+https://github.com/mboman/mart  
 
+# SSMA - Simple Static Malware Analyzer  
+https://github.com/secrary/SSMA  
+
+# Malicious traffic detection system  
+https://github.com/stamparm/maltrail  
+
+# Collection of android malware samples - Android Samples  
+https://github.com/ashishb/android-malware  
+
+# Malware Source  
+https://github.com/Chiggins/malware_sources  
+
+# List of awesome malware analysis tools and resources  
+https://github.com/wtsxDev/Malware-Analysis  
+
+# A collection of OSX and iOS security resources  
+https://github.com/kai5263499/osx-security-awesome  
+
+# Malware  
+https://github.com/0xBADBAC0N/malware  
+
+# Static and automated/dynamic malware analysis   
+https://github.com/abdesslem/malwareHunter  
+
+# Rootkits | Backdoors | Sniffers | Virus | Ransomware | Steganography | Cryptography | Shellcodes | Webshells | Keylogger | Botnets | Worms | Other Network Tools  
+https://github.com/vduddu/Malware  
+
+# Malware Classifier From Network Captures  
+https://github.com/adulau/MalwareClassifier  
+
+# Collection of scripts for different malware analysis tasks  
+https://github.com/deadbits/malware-analysis-scripts  
+
+# POC Android Malware Ransomware/Recon  
+https://github.com/tfairane/AndroMalware  
+
+# Repository containing Yara rules, indicators and tools from PhishMe Research  
+https://github.com/phishme/malware_analysis  
+
+# Binaries for the book Practical Malware Analysis  
+https://github.com/mikesiko/PracticalMalwareAnalysis-Labs  
+
+# Android Malware  
+https://github.com/virqdroid/Android_Malware  
+
+# Malware Behavior Analyzer  
+https://github.com/GlacierW/MBA  
+
+# Debian packaging of Linux Malware Detect   
+https://github.com/waja/maldetect  
+
+# Scanning and identifying XOR encrypted PE files in PE resources  
+https://github.com/edix/MalwareResourceScanner  
+
+# Windows Malware Rootkit  
+https://github.com/csurage/Rootkit  
+
+# Malware static analysis framework  
+https://github.com/KoreLogicSecurity/mastiff  
+
+# Harmless Android malware using the overlay technique to steal user credentials.  
+https://github.com/geeksonsecurity/android-overlay-malware-example  
+
+#  My personal Automated Malware Analysis Sandboxes and Services 
+https://github.com/ironbits/Automated-Malware-Analysis-List  
+
+#  Collection of almost 40.000 javascript malware samples  
+https://github.com/HynekPetrak/javascript-malware-collection  
+
+# Code for Deep Android Malware Detection paper  
+https://github.com/niallmcl/Deep-Android-Malware-Detection  
+
+# Various scripts for different malware families  
+https://github.com/sysopfb/Malware_Scripts  
+
+#  iOS malware samples  
+https://github.com/ashishb/ios-malware  
+
+# An Android Eclipse project demonstrating how to build a simple anti-malware application  
+https://github.com/twitter-university/AntiMalware  
 
 # malware source
 [https://github.com/gbrindisi/malware](https://github.com/gbrindisi/malware)  

@@ -144,6 +144,14 @@ http://blogs.360.cn/blog/category/%E7%97%85%E6%AF%92%E5%88%86%E6%9E%90/
 # VirtualKD  
 http://virtualkd.sysprogs.org/download/  
 
+# OFFICE MALWARE/EXPLOIT  
+https://github.com/Screetsec/Microsploit  
+https://remnux.org/  
+https://r3mrum.wordpress.com/2017/06/29/analyzing-malicious-password-protected-office-documents/  
+https://dfir.it/blog/2015/06/17/analysts-handbook-analyzing-weaponized-documents/  
+https://zeltser.com/analyzing-malicious-documents/  
+https://www.shellntel.com/blog/2016/9/13/luckystrike-a-database-backed-evil-macro-generator  
+
 
 # malware source
 [https://github.com/gbrindisi/malware](https://github.com/gbrindisi/malware)  

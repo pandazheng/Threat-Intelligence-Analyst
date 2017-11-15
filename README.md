@@ -141,6 +141,8 @@ http://blog.csdn.net/jiangdf/article/details/6843088
 # 360报告   
 http://blogs.360.cn/blog/category/%E7%97%85%E6%AF%92%E5%88%86%E6%9E%90/  
 
+# VirtualKD  
+http://virtualkd.sysprogs.org/download/  
 
 
 # malware source

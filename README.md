@@ -152,6 +152,27 @@ https://dfir.it/blog/2015/06/17/analysts-handbook-analyzing-weaponized-documents
 https://zeltser.com/analyzing-malicious-documents/  
 https://www.shellntel.com/blog/2016/9/13/luckystrike-a-database-backed-evil-macro-generator  
 
+# Malware Samples  
+http://contagiodump.blogspot.com/  
+http://dasmalwerk.eu/  
+http://www.freetrojanbotnet.com/  
+https://malshare.com/  
+http://www.kernelmode.info/forum/viewforum.php?f=16  
+https://avcaesar.malware.lu/  
+http://www.malwareblacklist.com/showMDL.php  
+http://thezoo.morirt.com/  
+https://malwr.com/  
+http://openmalware.org/  
+http://www.virusign.com/  
+https://virusshare.com/  
+
+# Free Automated Malware Analysis Sandboxes and Services  
+https://zeltser.com/automated-malware-analysis/  
+
+# Free Online Tools for Looking up Potentially Malicious Websites  
+https://zeltser.com/lookup-malicious-websites/  
+
+
 
 # malware source
 [https://github.com/gbrindisi/malware](https://github.com/gbrindisi/malware)  

@@ -191,6 +191,8 @@ https://wenku.baidu.com/view/11fd094384254b35effd3480.html
 https://www.52pojie.cn/thread-290299-1-1.html    
 https://bbs.pediy.com/thread-158078.htm    
 
+CVE–2017–11882  
+http://bobao.360.cn/learning/detail/4734.html  
 
 
 

@@ -17,6 +17,8 @@ https://www.processon.com/
 # RTFOBJ
 https://www.decalage.info/python/rtfobj  
 
+# Python  
+https://awesome-python.com/  
 
 
 # 威胁情报网站  

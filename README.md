@@ -7,7 +7,6 @@ https://github.com/rshipp/awesome-malware-analysis
 https://github.com/wtsxDev/Malware-Analysis  
 
 
-
 # 在线检测恶意软件网站  
 https://www.hybrid-analysis.com/  
 https://www.virustotal.com/#/home/upload  
@@ -184,6 +183,16 @@ https://zeltser.com/lookup-malicious-websites/
 
 # APT Sample  
 https://contagiodump.blogspot.com/2017/02/russian-apt-apt28-collection-of-samples.html  
+
+# CVE
+CVE-2010-3333  
+http://blog.csdn.net/qq_32400847/article/details/70225519  
+https://wenku.baidu.com/view/11fd094384254b35effd3480.html  
+https://www.52pojie.cn/thread-290299-1-1.html    
+https://bbs.pediy.com/thread-158078.htm    
+
+
+
 
 
 # malware source

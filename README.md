@@ -3,7 +3,9 @@
 
 # 恶意软件分析大合集  
 https://github.com/recodeking/MalwareAnalysis  
-https://github.com/rshipp/awesome-malware-analysis  
+https://github.com/rshipp/awesome-malware-analysis    
+https://github.com/wtsxDev/Malware-Analysis  
+
 
 
 # 在线检测恶意软件网站  

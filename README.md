@@ -190,10 +190,13 @@ http://blog.csdn.net/qq_32400847/article/details/70225519
 https://wenku.baidu.com/view/11fd094384254b35effd3480.html  
 https://www.52pojie.cn/thread-290299-1-1.html    
 https://bbs.pediy.com/thread-158078.htm    
-
+  
 CVE–2017–11882  
 http://bobao.360.cn/learning/detail/4734.html  
 
+
+CVE-2017-11826  
+https://blog.fortinet.com/2017/11/22/cve-2017-11826-exploited-in-the-wild-with-politically-themed-rtf-document  
 
 
 

@@ -160,6 +160,8 @@ https://r3mrum.wordpress.com/2017/06/29/analyzing-malicious-password-protected-o
 https://dfir.it/blog/2015/06/17/analysts-handbook-analyzing-weaponized-documents/  
 https://zeltser.com/analyzing-malicious-documents/  
 https://www.shellntel.com/blog/2016/9/13/luckystrike-a-database-backed-evil-macro-generator  
+https://www.blackhillsinfosec.com/hide-payload-ms-office-document-properties/  
+
 
 # Malware Samples  
 http://contagiodump.blogspot.com/  

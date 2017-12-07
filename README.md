@@ -165,7 +165,9 @@ https://r3mrum.wordpress.com/2017/06/29/analyzing-malicious-password-protected-o
 https://dfir.it/blog/2015/06/17/analysts-handbook-analyzing-weaponized-documents/  
 https://zeltser.com/analyzing-malicious-documents/  
 https://www.shellntel.com/blog/2016/9/13/luckystrike-a-database-backed-evil-macro-generator  
-https://www.blackhillsinfosec.com/hide-payload-ms-office-document-properties/  
+https://www.blackhillsinfosec.com/hide-payload-ms-office-document-properties/    
+https://securityoversimplicity.wordpress.com/2017/11/23/not-all-she-wrote-part-3-rigged-rtf-documents/  
+
 
 
 # Malware Samples  

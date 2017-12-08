@@ -5,6 +5,7 @@
 https://github.com/recodeking/MalwareAnalysis  
 https://github.com/rshipp/awesome-malware-analysis    
 https://github.com/wtsxDev/Malware-Analysis  
+https://github.com/CHYbeta/Software-Security-Learning  
 
 
 # 在线检测恶意软件网站  

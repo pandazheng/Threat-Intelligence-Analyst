@@ -46,6 +46,8 @@ https://www.kanxue.com/chm.htm
 https://www.anquanke.com/post/id/89730  
 https://www.anquanke.com/post/id/90174  
 
+# 虚拟机检测技术攻防
+http://blog.csdn.net/whatday/article/details/10393325  
 
 
 # Unpacking Shade Ransomware

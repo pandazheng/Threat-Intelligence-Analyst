@@ -42,6 +42,11 @@ http://www.covert.io/the-definitive-security-datascience-and-machinelearning-gui
 # 看雪知识库  
 https://www.kanxue.com/chm.htm  
 
+# NET逆向
+https://www.anquanke.com/post/id/89730  
+https://www.anquanke.com/post/id/90174  
+
+
 
 # Unpacking Shade Ransomware
 https://secrary.com/ReversingMalware/UnpackingShade/  

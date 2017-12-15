@@ -25,6 +25,9 @@ https://awesome-python.com/
 # Linux Malware Analyst
 http://blog.malwaremustdie.org/2016/11/linux-malware.html  
 
+# Window Payload 
+http://www.freebuf.com/articles/system/156710.html  
+
 
 # 威胁情报网站  
 https://x.threatbook.cn/  

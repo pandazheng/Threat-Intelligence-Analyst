@@ -57,6 +57,8 @@ https://www.anquanke.com/post/id/90174
 # 虚拟机检测技术攻防
 http://blog.csdn.net/whatday/article/details/10393325  
 
+# x86_64 Reverse-Engineering
+https://leotindall.com/tutorial/an-intro-to-x86_64-reverse-engineering/  
 
 # Unpacking Shade Ransomware
 https://secrary.com/ReversingMalware/UnpackingShade/  

@@ -12,6 +12,9 @@ https://github.com/CHYbeta/Software-Security-Learning
 https://www.hybrid-analysis.com/  
 https://www.virustotal.com/#/home/upload  
 https://www.reverse.it/  
+https://www.maldun.com/submit/submit_file/  
+https://habo.qq.com/  
+
 
 # Processon  
 https://www.processon.com/  

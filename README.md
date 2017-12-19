@@ -45,6 +45,8 @@ http://www.freebuf.com/sectool/136328.html
 http://www.freebuf.com/sectool/144824.html  
 http://www.freebuf.com/sectool/149835.html  
 
+# R2
+https://sec.xiaomi.com/article/30  
 
 
 # 威胁情报网站  

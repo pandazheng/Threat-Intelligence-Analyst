@@ -38,6 +38,14 @@ http://blog.malwaremustdie.org/2016/11/linux-malware.html
 # Window Payload 
 http://www.freebuf.com/articles/system/156710.html  
 
+# PowerShell
+http://www.freebuf.com/articles/database/101267.html  
+http://www.freebuf.com/sectool/120675.html  
+http://www.freebuf.com/sectool/136328.html  
+http://www.freebuf.com/sectool/144824.html  
+http://www.freebuf.com/sectool/149835.html  
+
+
 
 # 威胁情报网站  
 https://x.threatbook.cn/  

@@ -20,10 +20,10 @@ https://docs.microsoft.com/zh-cn/powershell/scripting/powershell-scripting?view=
 
 
 # CoinMiner
-Linux.挖矿.cpuminer方法记录
+Linux.挖矿.cpuminer方法记录  
 http://www.bubuko.com/infodetail-2167951.html  
 
-Compile CPUminer under Linux CentOS  
+Compile CPUminer under Linux CentOS    
 https://rumorscity.com/2014/01/04/compile-and-install-cpuminer-on-linux-centos/  
 
 搭建Redis&Minerd安全应急演练环境  
@@ -32,21 +32,21 @@ http://www.freebuf.com/sectool/156904.html
 centos 6.3 64位下cpuminer +mining_proxy 挖掘莱特币（LTC）教程  
 https://www.cnblogs.com/sixiweb/archive/2013/12/02/3454564.html  
 
-coinotron
+coinotron  
 https://www.coinotron.com  
 
 
-Linux下莱特币Litecoin挖矿教程 
+Linux下莱特币Litecoin挖矿教程   
 https://blog.linuxeye.cn/385.html  
 
-Linux 莱特币LTC CPU挖掘教程  
+Linux 莱特币LTC CPU挖掘教程    
 http://www.iitshare.com/linux-litecoin-ltc-mining-tutorial.html  
 
 
-以太坊Linux系统挖矿教程  
+以太坊Linux系统挖矿教程    
 http://www.8btc.com/gpu-mining  
 
-莱特币ltc挖矿教程:cpu挖矿与gpu挖矿(详细图文)  
+莱特币ltc挖矿教程:cpu挖矿与gpu挖矿(详细图文)    
 http://www.mnw.cn/news/digi/699354.html  
 
 

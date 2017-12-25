@@ -49,6 +49,35 @@ http://www.8btc.com/gpu-mining
 莱特币ltc挖矿教程:cpu挖矿与gpu挖矿(详细图文)    
 http://www.mnw.cn/news/digi/699354.html  
 
+# 勒索软件分析报告  
+File-Locker Ransomware  
+https://www.bleepingcomputer.com/news/security/file-locker-ransomware-targets-korean-victims-and-asks-for-50k-won/    
+
+
+层层抽丝——GlobeImposter勒索病毒分析  
+https://bbs.ichunqiu.com/thread-30152-1-1.html    
+
+轻轻脱掉你的衣--宏病毒的骚姿势    
+https://bbs.ichunqiu.com/thread-29739-1-2.html    
+
+揭秘Chimera勒索软件    
+http://www.freebuf.com/articles/system/112142.html    
+
+初步分析勒索软件ZEPTO    
+http://www.freebuf.com/articles/system/112328.html    
+
+新型恶意勒索软件cuteRansomware    
+http://www.freebuf.com/news/109242.html    
+
+使用AES-256加密算法的勒索软件SkidLocker分析    
+http://www.freebuf.com/articles/terminal/99153.html    
+
+NanoLocker勒索软件的逆向分析    
+http://www.freebuf.com/articles/network/94595.html    
+
+新型恶意勒索软件DMA Locker分析    
+http://www.freebuf.com/articles/network/96738.html    
+
 
 # BitCode 
 https://blockchain.info/  

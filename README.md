@@ -272,7 +272,13 @@ https://securityoversimplicity.wordpress.com/2017/11/23/not-all-she-wrote-part-3
 http://www.sdkhere.com/2017/12/analysis-of-file-spider-ransomware.html  
 https://pentestlab.blog/2017/12/15/microsoft-office-payloads-in-document-properties/  
 http://blog.51cto.com/antivirusjo/2054410　　
-
+https://countuponsecurity.com/2014/09/22/malicious-documents-pdf-analysis-in-5-steps/　　
+https://countuponsecurity.com/2014/10/24/malicious-documents-word-with-vba-and-powershell/　　
+https://www.cert-ist.com/public/en/SO_detail?code=malicious_pdf　　
+http://netsecurity.51cto.com/art/200907/138668.htm　　
+https://blog.didierstevens.com/category/pdf/　　
+http://www.itbaby.me/blog/59f7ea965d21b31fcd4e2037　　
+https://zeltser.com/media/docs/analyzing-malicious-document-files.pdf　　
 
 
 # Linux x86 Exploit

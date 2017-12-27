@@ -84,6 +84,9 @@ http://www.freebuf.com/articles/network/94595.html
 新型恶意勒索软件DMA Locker分析    
 http://www.freebuf.com/articles/network/96738.html    
 
+# MalwareVbr
+https://0x4954.wordpress.com/2017/12/03/dfir-tips-malwarevbr-vm/  
+
 
 # BitCode 
 https://blockchain.info/  

@@ -23,6 +23,8 @@ https://malware-unplugged.blogspot.com/2015/11/limon-sandbox-for-analyzing-linux
 https://www.blackhat.com/docs/eu-15/materials/eu-15-KA-Automating-Linux-Malware-Analysis-Using-Limon-Sandbox-wp.pdf  
 https://www.youtube.com/watch?v=fSCKyF--tRs&feature=youtu.be  
 
+# Advanced Malware Analysis
+https://cysinfo.com/category/training/advanced-malware-analysis/  
 
 
 # CoinMiner

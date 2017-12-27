@@ -18,6 +18,12 @@ https://habo.qq.com/
 # PowerShell 
 https://docs.microsoft.com/zh-cn/powershell/scripting/powershell-scripting?view=powershell-6  
 
+# Limon Sandbox For Analyzing Linux Malwares 
+https://malware-unplugged.blogspot.com/2015/11/limon-sandbox-for-analyzing-linux.html  
+https://www.blackhat.com/docs/eu-15/materials/eu-15-KA-Automating-Linux-Malware-Analysis-Using-Limon-Sandbox-wp.pdf  
+https://www.youtube.com/watch?v=fSCKyF--tRs&feature=youtu.be  
+
+
 
 # CoinMiner
 Linux.挖矿.cpuminer方法记录  

@@ -43,6 +43,10 @@ https://www.cnblogs.com/sixiweb/archive/2013/12/02/3454564.html
 coinotron  
 https://www.coinotron.com  
 
+# Yara 
+https://github.com/plusvic/yara/releases/tag/v2.0.0  
+
+
 
 Linux下莱特币Litecoin挖矿教程   
 https://blog.linuxeye.cn/385.html  

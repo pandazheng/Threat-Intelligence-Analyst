@@ -46,6 +46,8 @@ https://www.coinotron.com
 # Yara 
 https://github.com/plusvic/yara/releases/tag/v2.0.0  
 
+# ARM Exploit 
+http://www.freebuf.com/articles/terminal/107276.html  
 
 
 Linux下莱特币Litecoin挖矿教程   

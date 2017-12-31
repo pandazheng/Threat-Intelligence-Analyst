@@ -7,6 +7,9 @@ https://github.com/rshipp/awesome-malware-analysis
 https://github.com/wtsxDev/Malware-Analysis  
 https://github.com/CHYbeta/Software-Security-Learning  
 
+# LifeOfBinarie
+http://www.opensecuritytraining.info/LifeOfBinaries.html  
+
 
 # 在线检测恶意软件网站  
 https://www.hybrid-analysis.com/  

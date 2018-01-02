@@ -47,6 +47,7 @@ coinotron
 https://www.coinotron.com  
 
 # Yara 
+http://www.freebuf.com/articles/system/26373.html  
 https://github.com/plusvic/yara/releases/tag/v2.0.0  
 
 # ARM Exploit 

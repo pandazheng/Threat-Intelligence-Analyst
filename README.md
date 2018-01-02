@@ -49,6 +49,8 @@ https://www.coinotron.com
 # Yara 
 http://www.freebuf.com/articles/system/26373.html  
 https://github.com/plusvic/yara/releases/tag/v2.0.0  
+https://yara.readthedocs.io/en/v3.5.0/gettingstarted.html  
+
 
 # ARM Exploit 
 http://www.freebuf.com/articles/terminal/107276.html  

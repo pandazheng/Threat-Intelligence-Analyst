@@ -197,6 +197,10 @@ https://github.com/kai5263499/osx-security-awesome
 # Malware  
 https://github.com/0xBADBAC0N/malware  
 
+# ARM Emulate  
+https://salmanarif.bitbucket.io/visual/downloads.html  
+
+
 # Static and automated/dynamic malware analysis   
 https://github.com/abdesslem/malwareHunter  
 

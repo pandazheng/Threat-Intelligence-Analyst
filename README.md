@@ -51,6 +51,10 @@ http://www.freebuf.com/articles/system/26373.html
 https://github.com/plusvic/yara/releases/tag/v2.0.0  
 https://yara.readthedocs.io/en/v3.5.0/gettingstarted.html  
 https://analysis.yararules.com/  
+https://github.com/Yara-Rules/rules  
+https://www.bsk-consulting.de/2015/02/16/write-simple-sound-yara-rules/  
+https://www.bsk-consulting.de/2015/10/17/how-to-write-simple-but-sound-yara-rules-part-2/  
+https://www.bsk-consulting.de/2016/04/15/how-to-write-simple-but-sound-yara-rules-part-3/  
 
 
 

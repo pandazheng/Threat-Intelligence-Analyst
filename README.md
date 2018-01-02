@@ -50,6 +50,8 @@ https://www.coinotron.com
 http://www.freebuf.com/articles/system/26373.html  
 https://github.com/plusvic/yara/releases/tag/v2.0.0  
 https://yara.readthedocs.io/en/v3.5.0/gettingstarted.html  
+https://analysis.yararules.com/  
+
 
 
 # ARM Exploit 

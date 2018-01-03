@@ -1,8 +1,11 @@
 # Threat-Intelligence-Analyst
 威胁情报，恶意样本分析，自动化python脚本，开源Malware代码收集,APT攻击安例相关
 
+# Hack 
+https://github.com/Hack-with-Github/Awesome-Hacking  
+
+
 # 恶意软件分析大合集  
-https://github.com/recodeking/MalwareAnalysis  
 https://github.com/rshipp/awesome-malware-analysis    
 https://github.com/wtsxDev/Malware-Analysis  
 https://github.com/CHYbeta/Software-Security-Learning  

@@ -105,7 +105,14 @@ NanoLocker勒索软件的逆向分析
 http://www.freebuf.com/articles/network/94595.html    
 
 新型恶意勒索软件DMA Locker分析    
-http://www.freebuf.com/articles/network/96738.html    
+http://www.freebuf.com/articles/network/96738.html  
+
+locky勒索软件恶意样本分析2  
+http://www.ithtw.com/thread-8888.htm  
+
+locky勒索软件恶意样本分析1  
+http://blog.topsec.com.cn/ad_lab/locky%E5%8B%92%E7%B4%A2%E8%BD%AF%E4%BB%B6%E6%81%B6%E6%84%8F%E6%A0%B7%E6%9C%AC%E5%88%86%E6%9E%90/  
+
 
 # MalwareVbr
 https://0x4954.wordpress.com/2017/12/03/dfir-tips-malwarevbr-vm/  

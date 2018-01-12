@@ -322,7 +322,10 @@ https://www.blackhillsinfosec.com/hide-payload-ms-office-document-properties/
 https://securityoversimplicity.wordpress.com/2017/11/23/not-all-she-wrote-part-3-rigged-rtf-documents/  
 http://www.sdkhere.com/2017/12/analysis-of-file-spider-ransomware.html  
 https://pentestlab.blog/2017/12/15/microsoft-office-payloads-in-document-properties/  
-http://blog.51cto.com/antivirusjo/2054410　　　
+http://blog.51cto.com/antivirusjo/2054410　　
+http://www.freebuf.com/vuls/159789.html  
+http://blog.safedog.cn/?p=1519  
+
 
 https://countuponsecurity.com/2014/09/22/malicious-documents-pdf-analysis-in-5-steps/　
 

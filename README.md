@@ -22,6 +22,9 @@ https://www.maldun.com/submit/submit_file/
 https://habo.qq.com/  
 https://www.joesandbox.com/  
 
+# malware analysis labs  
+https://cybersecweb.wordpress.com/2016/07/12/malware-analysis-labs/  
+
 
 # PowerShell 
 https://docs.microsoft.com/zh-cn/powershell/scripting/powershell-scripting?view=powershell-6  

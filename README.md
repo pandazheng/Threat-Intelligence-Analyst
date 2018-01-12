@@ -325,6 +325,7 @@ https://pentestlab.blog/2017/12/15/microsoft-office-payloads-in-document-propert
 http://blog.51cto.com/antivirusjo/2054410　　
 http://www.freebuf.com/vuls/159789.html  
 http://blog.safedog.cn/?p=1519  
+http://blog.safedog.cn/?p=2209  
 
 
 https://countuponsecurity.com/2014/09/22/malicious-documents-pdf-analysis-in-5-steps/　

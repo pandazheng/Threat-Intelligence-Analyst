@@ -67,6 +67,8 @@ https://www.bsk-consulting.de/2016/04/15/how-to-write-simple-but-sound-yara-rule
 # 教你构建自己的yara数据库
 http://blog.safedog.cn/?p=281  
 
+# 基础反调试技术总结  
+https://bbs.pediy.com/thread-212371.htm  
 
 
 # ARM Exploit 

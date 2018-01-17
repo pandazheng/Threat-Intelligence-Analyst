@@ -154,6 +154,10 @@ http://www.freebuf.com/sectool/136328.html
 http://www.freebuf.com/sectool/144824.html  
 http://www.freebuf.com/sectool/149835.html  
 
+# PART 2A: INTRO TO THREAT HUNTING WITH KOLIDE FLEET, OSQUERY, POWERSHELL EMPIRE, AND CALDERA – SETUP ENVIRONMENT  
+https://holdmybeersecurity.com/2018/01/16/part-2a-intro-to-threat-hunting-with-kolide-fleet-osquery-powershell-empire-and-caldera-setup-environment/  
+
+
 # R2
 https://sec.xiaomi.com/article/30  
 

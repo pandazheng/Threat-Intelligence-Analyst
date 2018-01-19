@@ -54,6 +54,10 @@ https://www.cnblogs.com/sixiweb/archive/2013/12/02/3454564.html
 coinotron  
 https://www.coinotron.com  
 
+# NET Malware
+https://blogs.cisco.com/security/talos/reversing-multilayer-net-malware  
+
+
 # Yara 
 http://www.freebuf.com/articles/system/26373.html  
 https://github.com/plusvic/yara/releases/tag/v2.0.0  

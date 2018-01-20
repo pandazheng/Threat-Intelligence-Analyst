@@ -21,6 +21,10 @@ https://www.reverse.it/
 https://www.maldun.com/submit/submit_file/  
 https://habo.qq.com/  
 https://www.joesandbox.com/  
+https://virusscan.jotti.org/  
+http://www.threatexpert.com/submit.aspx  
+http://virscan.org/  
+
 
 # malware analysis labs  
 https://cybersecweb.wordpress.com/2016/07/12/malware-analysis-labs/  

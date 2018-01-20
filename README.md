@@ -29,6 +29,17 @@ http://virscan.org/
 # malware analysis labs  
 https://cybersecweb.wordpress.com/2016/07/12/malware-analysis-labs/  
 
+# VMP/TMD Unpack
+OD调试过VMProtect虚拟机检测教程  
+https://www.52pojie.cn/thread-411742-1-1.html  
+
+ TMD壳的脱壳（可能是2.1.8）   
+ https://www.52pojie.cn/thread-675279-1-1.html  
+ 
+ VMP v3.0.9过VMware检测  
+ https://www.52pojie.cn/thread-635613-1-4.html  
+ 
+
 
 # PowerShell 
 https://docs.microsoft.com/zh-cn/powershell/scripting/powershell-scripting?view=powershell-6  

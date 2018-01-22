@@ -25,6 +25,14 @@ https://virusscan.jotti.org/
 http://www.threatexpert.com/submit.aspx  
 http://virscan.org/  
 
+# 恶意样本分析
+https://secrary.com/ReversingMalware/CoinMiner/  
+https://secrary.com/ReversingMalware  
+https://secrary.com/ReversingMalware/Upatre/  
+https://secrary.com/ReversingMalware/Mamba/  
+https://secrary.com/ReversingMalware/UnpackingShade/  
+https://secrary.com/ReversingMalware/Enosch/  
+
 
 # malware analysis labs  
 https://cybersecweb.wordpress.com/2016/07/12/malware-analysis-labs/  

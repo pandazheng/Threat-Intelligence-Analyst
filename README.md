@@ -32,6 +32,9 @@ https://secrary.com/ReversingMalware/Upatre/
 https://secrary.com/ReversingMalware/Mamba/  
 https://secrary.com/ReversingMalware/UnpackingShade/  
 https://secrary.com/ReversingMalware/Enosch/  
+https://www.anquanke.com/post/id/87172  
+http://blog.talosintelligence.com/2017/11/zeus-panda-campaign.html  
+
 
 
 # malware analysis labs  

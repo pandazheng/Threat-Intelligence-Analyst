@@ -24,6 +24,8 @@ https://www.joesandbox.com/
 https://virusscan.jotti.org/  
 http://www.threatexpert.com/submit.aspx  
 http://virscan.org/  
+https://any.run/  
+
 
 # 恶意样本分析
 https://secrary.com/ReversingMalware/CoinMiner/  

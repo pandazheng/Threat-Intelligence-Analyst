@@ -25,6 +25,8 @@ https://virusscan.jotti.org/
 http://www.threatexpert.com/submit.aspx  
 http://virscan.org/  
 https://any.run/  
+https://id-ransomware.malwarehunterteam.com/  
+
 
 
 # 恶意样本分析

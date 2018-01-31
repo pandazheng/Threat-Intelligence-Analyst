@@ -31,6 +31,8 @@ http://virscan.org/
 https://any.run/  
 https://id-ransomware.malwarehunterteam.com/  
 
+# ida视频 
+http://hdvidzpro.pro/video/ida-tutorial 
 
 
 # 恶意样本分析

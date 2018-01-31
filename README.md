@@ -14,6 +14,10 @@ https://github.com/CHYbeta/Software-Security-Learning
 http://www.opensecuritytraining.info/LifeOfBinaries.html  
 
 
+# Malware Analyst
+https://pastebin.com/QXURDzmA  
+
+
 # 在线检测恶意软件网站  
 https://www.hybrid-analysis.com/  
 https://www.virustotal.com/#/home/upload  

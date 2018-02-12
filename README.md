@@ -60,6 +60,8 @@ https://www.52pojie.cn/thread-411742-1-1.html
  VMP v3.0.9过VMware检测  
  https://www.52pojie.cn/thread-635613-1-4.html  
  
+分析一个新型VM的CrackMe  
+https://www.52pojie.cn/thread-695729-1-1.html  
 
 
 # PowerShell 

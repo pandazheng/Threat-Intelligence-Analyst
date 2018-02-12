@@ -45,6 +45,12 @@ https://secrary.com/ReversingMalware/Enosch/
 https://www.anquanke.com/post/id/87172  
 http://blog.talosintelligence.com/2017/11/zeus-panda-campaign.html  
 
+# Malware Sample Sources for Researchers  
+https://zeltser.com/malware-sample-sources/  
+
+# List of Malware Sources  
+http://www.kernelmode.info/forum/viewtopic.php?f=16&t=308  
+
 
 
 # malware analysis labs  

@@ -175,6 +175,10 @@ http://blog.topsec.com.cn/ad_lab/locky%E5%8B%92%E7%B4%A2%E8%BD%AF%E4%BB%B6%E6%81
 # MalwareVbr
 https://0x4954.wordpress.com/2017/12/03/dfir-tips-malwarevbr-vm/  
 
+# JS混淆
+http://relentless-coding.org/projects/jsdetox/samples  
+
+
 
 # BitCode 
 https://blockchain.info/  

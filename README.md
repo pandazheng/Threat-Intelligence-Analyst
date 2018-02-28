@@ -177,8 +177,7 @@ https://0x4954.wordpress.com/2017/12/03/dfir-tips-malwarevbr-vm/
 
 # JS混淆
 http://relentless-coding.org/projects/jsdetox/samples  
-
-
+http://www.freebuf.com/column/157281.html  
 
 # BitCode 
 https://blockchain.info/  

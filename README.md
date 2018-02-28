@@ -69,6 +69,9 @@ https://www.52pojie.cn/thread-411742-1-1.html
 分析一个新型VM的CrackMe  
 https://www.52pojie.cn/thread-695729-1-1.html  
 
+# MIPS 路由器木马
+http://www.freebuf.com/articles/network/88798.html  
+
 
 # PowerShell 
 https://docs.microsoft.com/zh-cn/powershell/scripting/powershell-scripting?view=powershell-6  

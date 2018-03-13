@@ -54,7 +54,8 @@ http://www.kernelmode.info/forum/viewtopic.php?f=16&t=308
 # WMI BackDoor
 https://www.eideon.com/2018-03-02-THL03-WMIBackdoors/  
 
-
+# IDA 
+http://kingerwu.com/2017/12/16/IDA%E6%93%8D%E4%BD%9C%E7%9F%A5%E8%AF%86%E8%AE%B0%E5%BD%95/#more
 
 # malware analysis labs  
 https://cybersecweb.wordpress.com/2016/07/12/malware-analysis-labs/  

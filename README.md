@@ -51,6 +51,9 @@ https://zeltser.com/malware-sample-sources/
 # List of Malware Sources  
 http://www.kernelmode.info/forum/viewtopic.php?f=16&t=308  
 
+# WMI BackDoor
+https://www.eideon.com/2018-03-02-THL03-WMIBackdoors/  
+
 
 
 # malware analysis labs  

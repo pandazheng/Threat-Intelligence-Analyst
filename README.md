@@ -88,6 +88,9 @@ https://www.youtube.com/watch?v=fSCKyF--tRs&feature=youtu.be
 # Advanced Malware Analysis
 https://cysinfo.com/category/training/advanced-malware-analysis/  
 
+# WMI POWERSHELL 挖矿
+http://www.freebuf.com/articles/network/163233.html
+
 
 # CoinMiner
 Linux.挖矿.cpuminer方法记录  

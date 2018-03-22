@@ -30,6 +30,8 @@ http://www.threatexpert.com/submit.aspx
 http://virscan.org/  
 https://any.run/  
 https://id-ransomware.malwarehunterteam.com/  
+https://www.vmray.com  
+
 
 # ida视频 
 http://hdvidzpro.pro/video/ida-tutorial 
@@ -90,6 +92,9 @@ https://cysinfo.com/category/training/advanced-malware-analysis/
 
 # WMI POWERSHELL 挖矿
 http://www.freebuf.com/articles/network/163233.html
+
+# CTF 
+http://eternalsakura13.com/2018/03/21/lctf2/  
 
 
 # CoinMiner

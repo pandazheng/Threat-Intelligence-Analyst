@@ -78,6 +78,9 @@ https://www.52pojie.cn/thread-695729-1-1.html
 # MIPS 路由器木马
 http://www.freebuf.com/articles/network/88798.html  
 
+# 勒索软件信息
+https://www.botfrei.de/de/ransomware/galerie.html  
+
 
 # PowerShell 
 https://docs.microsoft.com/zh-cn/powershell/scripting/powershell-scripting?view=powershell-6  

@@ -415,6 +415,14 @@ http://blog.51cto.com/antivirusjo/2054410　　
 http://www.freebuf.com/vuls/159789.html  
 http://blog.safedog.cn/?p=1519  
 http://blog.safedog.cn/?p=2209  
+https://spreadsecurity.github.io/2016/08/14/macro-malware-analysis.html  
+http://sites.utexas.edu/iso/2016/07/08/reverse-engineering-a-malicious-ms-word-document/  
+http://www.freebuf.com/articles/terminal/74921.html  
+https://www.anquanke.com/post/id/84105  
+
+
+
+
 
 
 https://countuponsecurity.com/2014/09/22/malicious-documents-pdf-analysis-in-5-steps/　

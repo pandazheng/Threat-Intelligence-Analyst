@@ -81,6 +81,10 @@ http://www.freebuf.com/articles/network/88798.html
 # 勒索软件信息
 https://www.botfrei.de/de/ransomware/galerie.html  
 
+# Linux Kernel Debug
+https://bbs.pediy.com/thread-226139.htm  
+
+
 
 # PowerShell 
 https://docs.microsoft.com/zh-cn/powershell/scripting/powershell-scripting?view=powershell-6  

@@ -33,6 +33,9 @@ https://id-ransomware.malwarehunterteam.com/
 https://www.vmray.com  
 
 
+# 用命令行与Python使用YARA规则-识别恶意木马必备    
+https://bbs.pediy.com/thread-223070.htm  
+
 # ida视频 
 http://hdvidzpro.pro/video/ida-tutorial 
 

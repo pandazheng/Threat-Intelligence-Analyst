@@ -191,7 +191,13 @@ locky勒索软件恶意样本分析2
 http://www.ithtw.com/thread-8888.htm  
 
 locky勒索软件恶意样本分析1  
-http://blog.topsec.com.cn/ad_lab/locky%E5%8B%92%E7%B4%A2%E8%BD%AF%E4%BB%B6%E6%81%B6%E6%84%8F%E6%A0%B7%E6%9C%AC%E5%88%86%E6%9E%90/  
+http://blog.topsec.com.cn/ad_lab/locky%E5%8B%92%E7%B4%A2%E8%BD%AF%E4%BB%B6%E6%81%B6%E6%84%8F%E6%A0%B7%E6%9C%AC%E5%88%86%E6%9E%90/    
+
+IoT安全：调试环境搭建教程(AArch64篇)  
+https://bbs.pediy.com/thread-229581.htm  
+
+
+
 
 # Docker分析文章
 Docker恶意软件分析系列之初识Docker  

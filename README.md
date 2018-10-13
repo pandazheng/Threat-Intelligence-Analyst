@@ -17,6 +17,10 @@ http://www.opensecuritytraining.info/LifeOfBinaries.html
 # Malware Analyst
 https://pastebin.com/QXURDzmA  
 
+# Malware分析文章
+http://reversingminds-blog.logdown.com/  
+
+
 
 # 在线检测恶意软件网站  
 https://www.hybrid-analysis.com/  

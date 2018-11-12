@@ -224,6 +224,9 @@ http://blog.sina.com.cn/s/blog_e8e60bc00102vnr0.html
 Docker恶意软件分析系列VI：ALICTF决赛解题思路   
 http://blog.sina.com.cn/s/blog_e8e60bc00102vnr6.html  
 
+# Android 加固分析
+https://paper.seebug.org/44/  
+
 
 # MalwareVbr
 https://0x4954.wordpress.com/2017/12/03/dfir-tips-malwarevbr-vm/  

@@ -13,6 +13,9 @@ https://github.com/CHYbeta/Software-Security-Learning
 # LifeOfBinarie
 http://www.opensecuritytraining.info/LifeOfBinaries.html  
 
+# PNG Payload
+https://www.anquanke.com/post/id/166451  
+
 
 # Malware Analyst
 https://pastebin.com/QXURDzmA  

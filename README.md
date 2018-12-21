@@ -76,6 +76,10 @@ http://kingerwu.com/2017/12/16/IDA%E6%93%8D%E4%BD%9C%E7%9F%A5%E8%AF%86%E8%AE%B0%
 # malware analysis labs  
 https://cybersecweb.wordpress.com/2016/07/12/malware-analysis-labs/  
 
+# Exploitation Archives  
+https://rootkits.xyz/blog/tag/exploitation/  
+
+
 # VMP/TMD Unpack
 OD调试过VMProtect虚拟机检测教程  
 https://www.52pojie.cn/thread-411742-1-1.html  

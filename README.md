@@ -79,6 +79,9 @@ https://cybersecweb.wordpress.com/2016/07/12/malware-analysis-labs/
 # Exploitation Archives  
 https://rootkits.xyz/blog/tag/exploitation/  
 
+# Exploits
+https://0xrick.github.io/binary-exploitation/bof2/  
+
 
 # VMP/TMD Unpack
 OD调试过VMProtect虚拟机检测教程  

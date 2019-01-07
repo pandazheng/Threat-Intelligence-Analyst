@@ -282,6 +282,9 @@ https://holdmybeersecurity.com/2018/01/16/part-2a-intro-to-threat-hunting-with-k
 # R2
 https://sec.xiaomi.com/article/30  
 
+# Proxmox & Cuckoo  
+https://4d5a.re/proxmox-cuckoo-a-powerful-combo-for-your-home-malware-lab/  
+
 
 # 威胁情报网站  
 https://x.threatbook.cn/  

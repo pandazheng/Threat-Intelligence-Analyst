@@ -27,6 +27,8 @@ https://cysinfo.com/category/training/malware-analysis/
 # 恶意样本分析
 http://blog.nsfocus.net/malware-sample-analysis-summary/  
 
+# Resources for Learning Reverse Engineering
+http://jackson-t.ca/re-resources.html  
 
 
 # 在线检测恶意软件网站  

@@ -35,6 +35,9 @@ http://blog.nsfocus.net/malware-sample-analysis-summary/
 http://jackson-t.ca/re-resources.html  
 
 
+# 病毒分类
+https://www.virusradar.com/en/glossary  
+
 # 在线检测恶意软件网站  
 https://www.hybrid-analysis.com/  
 https://www.virustotal.com/#/home/upload  

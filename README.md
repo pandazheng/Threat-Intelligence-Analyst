@@ -20,6 +20,9 @@ http://www.opensecuritytraining.info/LifeOfBinaries.html
 # PNG Payload
 https://www.anquanke.com/post/id/166451  
 
+# Malware Sample Source
+https://zeltser.com/malware-sample-sources/  
+
 
 # Malware Analyst
 https://pastebin.com/QXURDzmA  

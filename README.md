@@ -5,6 +5,9 @@
 https://start.me/p/rxRbpo/ti  
 
 
+# Analyzing Malicious Password Protected Office Documents
+https://r3mrum.wordpress.com/2017/06/29/analyzing-malicious-password-protected-office-documents/  
+
 # Hack 
 https://github.com/Hack-with-Github/Awesome-Hacking  
 

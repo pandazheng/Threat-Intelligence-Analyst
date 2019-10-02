@@ -1,6 +1,13 @@
 # Threat-Intelligence-Analyst
 威胁情报，恶意样本分析，自动化python脚本，开源Malware代码收集,APT攻击安例相关
 
+# TI威胁情报
+https://start.me/p/rxRbpo/ti  
+
+
+# Analyzing Malicious Password Protected Office Documents
+https://r3mrum.wordpress.com/2017/06/29/analyzing-malicious-password-protected-office-documents/  
+
 # Hack 
 https://github.com/Hack-with-Github/Awesome-Hacking  
 
@@ -16,6 +23,9 @@ http://www.opensecuritytraining.info/LifeOfBinaries.html
 # PNG Payload
 https://www.anquanke.com/post/id/166451  
 
+# Malware Sample Source
+https://zeltser.com/malware-sample-sources/  
+
 
 # Malware Analyst
 https://pastebin.com/QXURDzmA  
@@ -27,7 +37,12 @@ https://cysinfo.com/category/training/malware-analysis/
 # 恶意样本分析
 http://blog.nsfocus.net/malware-sample-analysis-summary/  
 
+# Resources for Learning Reverse Engineering
+http://jackson-t.ca/re-resources.html  
 
+
+# 病毒分类
+https://www.virusradar.com/en/glossary  
 
 # 在线检测恶意软件网站  
 https://www.hybrid-analysis.com/  
@@ -78,6 +93,9 @@ https://cybersecweb.wordpress.com/2016/07/12/malware-analysis-labs/
 
 # Exploitation Archives  
 https://rootkits.xyz/blog/tag/exploitation/  
+
+# Exploits
+https://0xrick.github.io/binary-exploitation/bof2/  
 
 
 # VMP/TMD Unpack
@@ -140,6 +158,10 @@ https://www.coinotron.com
 
 # NET Malware
 https://blogs.cisco.com/security/talos/reversing-multilayer-net-malware  
+
+
+# URL
+https://urlhaus.abuse.ch/browse/  
 
 
 # Yara 
@@ -274,6 +296,9 @@ https://holdmybeersecurity.com/2018/01/16/part-2a-intro-to-threat-hunting-with-k
 
 # R2
 https://sec.xiaomi.com/article/30  
+
+# Proxmox & Cuckoo  
+https://4d5a.re/proxmox-cuckoo-a-powerful-combo-for-your-home-malware-lab/  
 
 
 # 威胁情报网站  

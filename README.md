@@ -1,7 +1,7 @@
 # Threat-Intelligence-Analyst
-威胁情报，恶意样本分析，自动化python脚本，开源Malware代码收集,APT攻击安例相关
+Threat intelligence, malicious sample analysis, automated python scripting, open source Malware code collection, APT attack security related
 
-# TI威胁情报
+# TI Threat Intelligence
 https://start.me/p/rxRbpo/ti  
 
 
@@ -12,7 +12,7 @@ https://r3mrum.wordpress.com/2017/06/29/analyzing-malicious-password-protected-o
 https://github.com/Hack-with-Github/Awesome-Hacking  
 
 
-# 恶意软件分析大合集  
+# Malware analysis big collection  
 https://github.com/rshipp/awesome-malware-analysis    
 https://github.com/wtsxDev/Malware-Analysis  
 https://github.com/CHYbeta/Software-Security-Learning  
@@ -30,21 +30,21 @@ https://zeltser.com/malware-sample-sources/
 # Malware Analyst
 https://pastebin.com/QXURDzmA  
 
-# Malware分析文章
+# Malware analysis article
 http://reversingminds-blog.logdown.com/  
 https://cysinfo.com/category/training/malware-analysis/  
 
-# 恶意样本分析
+# Malicious sample analysis
 http://blog.nsfocus.net/malware-sample-analysis-summary/  
 
 # Resources for Learning Reverse Engineering
 http://jackson-t.ca/re-resources.html  
 
 
-# 病毒分类
+# Virus classification
 https://www.virusradar.com/en/glossary  
 
-# 在线检测恶意软件网站  
+# Online detection of malware sites  
 https://www.hybrid-analysis.com/  
 https://www.virustotal.com/#/home/upload  
 https://www.reverse.it/  
@@ -59,14 +59,14 @@ https://id-ransomware.malwarehunterteam.com/
 https://www.vmray.com  
 
 
-# 用命令行与Python使用YARA规则-识别恶意木马必备    
+# Use the YARA rule with the command line and Python - identify malicious Trojans    
 https://bbs.pediy.com/thread-223070.htm  
 
-# ida视频 
+# IDA video
 http://hdvidzpro.pro/video/ida-tutorial 
 
 
-# 恶意样本分析
+# Malicious sample analysis
 https://secrary.com/ReversingMalware/CoinMiner/  
 https://secrary.com/ReversingMalware  
 https://secrary.com/ReversingMalware/Upatre/  
@@ -99,7 +99,7 @@ https://0xrick.github.io/binary-exploitation/bof2/
 
 
 # VMP/TMD Unpack
-OD调试过VMProtect虚拟机检测教程  
+OD debugging VMProtect virtual machine detection tutorial  
 https://www.52pojie.cn/thread-411742-1-1.html  
 
  TMD壳的脱壳（可能是2.1.8）   
@@ -111,16 +111,14 @@ https://www.52pojie.cn/thread-411742-1-1.html
 分析一个新型VM的CrackMe  
 https://www.52pojie.cn/thread-695729-1-1.html  
 
-# MIPS 路由器木马
+# MIPS router Trojan
 http://www.freebuf.com/articles/network/88798.html  
 
-# 勒索软件信息
+# Ransomware information
 https://www.botfrei.de/de/ransomware/galerie.html  
 
 # Linux Kernel Debug
 https://bbs.pediy.com/thread-226139.htm  
-
-
 
 # PowerShell 
 https://docs.microsoft.com/zh-cn/powershell/scripting/powershell-scripting?view=powershell-6  
@@ -138,7 +136,6 @@ http://www.freebuf.com/articles/network/163233.html
 
 # CTF 
 http://eternalsakura13.com/2018/03/21/lctf2/  
-
 
 # CoinMiner
 Linux.挖矿.cpuminer方法记录  
@@ -195,7 +192,7 @@ http://www.iitshare.com/linux-litecoin-ltc-mining-tutorial.html
 以太坊Linux系统挖矿教程    
 http://www.8btc.com/gpu-mining  
 
-莱特币ltc挖矿教程:cpu挖矿与gpu挖矿(详细图文)    
+Litecoin ltc mining tutorial: cpu mining and gpu mining (detailed graphic)    
 http://www.mnw.cn/news/digi/699354.html  
 
 # 勒索软件分析报告  
